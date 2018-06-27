@@ -1,0 +1,1 @@
+$.context.approved = $.context.toApprove.length <= 0;
